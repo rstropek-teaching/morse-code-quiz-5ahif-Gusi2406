@@ -1,0 +1,26 @@
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCode\bin\Debug\MorseCode.exe.config
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCode\bin\Debug\MorseCode.exe
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCode\bin\Debug\MorseCode.pdb
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCode\obj\Debug\MorseCode.csprojResolveAssemblyReference.cache
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCode\obj\Debug\MorseCode.exe
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCode\obj\Debug\MorseCode.pdb
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCode\bin\Debug\MorseLibrary.dll
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCode\bin\Debug\MorseLibrary.pdb
+F:\MorseCode\MorseCode\bin\Debug\MorseCode.exe.config
+F:\MorseCode\MorseCode\bin\Debug\MorseCode.exe
+F:\MorseCode\MorseCode\bin\Debug\MorseCode.pdb
+F:\MorseCode\MorseCode\bin\Debug\MorseLibrary.dll
+F:\MorseCode\MorseCode\bin\Debug\MorseLibrary.pdb
+F:\MorseCode\MorseCode\obj\Debug\MorseCode.csprojResolveAssemblyReference.cache
+F:\MorseCode\MorseCode\obj\Debug\MorseCode.csproj.CoreCompileInputs.cache
+F:\MorseCode\MorseCode\obj\Debug\MorseCode.exe
+F:\MorseCode\MorseCode\obj\Debug\MorseCode.pdb
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCode\bin\Debug\MorseCode.exe.config
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCode\bin\Debug\MorseCode.exe
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCode\bin\Debug\MorseCode.pdb
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCode\bin\Debug\MorseLibrary.dll
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCode\bin\Debug\MorseLibrary.pdb
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCode\obj\Debug\MorseCode.csprojResolveAssemblyReference.cache
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCode\obj\Debug\MorseCode.csproj.CoreCompileInputs.cache
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCode\obj\Debug\MorseCode.exe
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCode\obj\Debug\MorseCode.pdb

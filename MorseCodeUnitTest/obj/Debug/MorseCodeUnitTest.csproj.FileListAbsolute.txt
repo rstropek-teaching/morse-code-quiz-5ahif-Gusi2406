@@ -1,0 +1,62 @@
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCodeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCodeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCodeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCodeUnitTest\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCodeUnitTest\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCodeUnitTest\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCodeUnitTest\bin\Debug\MorseCodeUnitTest.dll
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCodeUnitTest\bin\Debug\MorseCodeUnitTest.pdb
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCodeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCodeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCodeUnitTest\bin\Debug\MorseLibrary.dll
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCodeUnitTest\bin\Debug\MorseLibrary.pdb
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCodeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCodeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCodeUnitTest\obj\Debug\MorseCodeUnitTest.csprojResolveAssemblyReference.cache
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCodeUnitTest\obj\Debug\MorseCodeUnitTest.dll
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCodeUnitTest\obj\Debug\MorseCodeUnitTest.pdb
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCodeUnitTest\bin\Debug\MorseCode.exe
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCodeUnitTest\bin\Debug\MorseCode.pdb
+c:\users\andreas\documents\visual studio 2017\Projects\MorseCode\MorseCodeUnitTest\bin\Debug\MorseCode.exe.config
+F:\MorseCode\MorseCodeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\MorseCode\MorseCodeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\MorseCode\MorseCodeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\MorseCode\MorseCodeUnitTest\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+F:\MorseCode\MorseCodeUnitTest\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+F:\MorseCode\MorseCodeUnitTest\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+F:\MorseCode\MorseCodeUnitTest\bin\Debug\MorseCodeUnitTest.dll
+F:\MorseCode\MorseCodeUnitTest\bin\Debug\MorseCodeUnitTest.pdb
+F:\MorseCode\MorseCodeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\MorseCode\MorseCodeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\MorseCode\MorseCodeUnitTest\bin\Debug\MorseCode.exe
+F:\MorseCode\MorseCodeUnitTest\bin\Debug\MorseLibrary.dll
+F:\MorseCode\MorseCodeUnitTest\bin\Debug\MorseCode.pdb
+F:\MorseCode\MorseCodeUnitTest\bin\Debug\MorseCode.exe.config
+F:\MorseCode\MorseCodeUnitTest\bin\Debug\MorseLibrary.pdb
+F:\MorseCode\MorseCodeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\MorseCode\MorseCodeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\MorseCode\MorseCodeUnitTest\obj\Debug\MorseCodeUnitTest.csprojResolveAssemblyReference.cache
+F:\MorseCode\MorseCodeUnitTest\obj\Debug\MorseCodeUnitTest.csproj.CoreCompileInputs.cache
+F:\MorseCode\MorseCodeUnitTest\obj\Debug\MorseCodeUnitTest.dll
+F:\MorseCode\MorseCodeUnitTest\obj\Debug\MorseCodeUnitTest.pdb
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCodeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCodeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCodeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCodeUnitTest\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCodeUnitTest\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCodeUnitTest\bin\Debug\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCodeUnitTest\bin\Debug\MorseCodeUnitTest.dll
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCodeUnitTest\bin\Debug\MorseCodeUnitTest.pdb
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCodeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCodeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCodeUnitTest\bin\Debug\MorseCode.exe
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCodeUnitTest\bin\Debug\MorseLibrary.dll
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCodeUnitTest\bin\Debug\MorseCode.pdb
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCodeUnitTest\bin\Debug\MorseCode.exe.config
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCodeUnitTest\bin\Debug\MorseLibrary.pdb
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCodeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCodeUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCodeUnitTest\obj\Debug\MorseCodeUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCodeUnitTest\obj\Debug\MorseCodeUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCodeUnitTest\obj\Debug\MorseCodeUnitTest.dll
+C:\Users\Philipp Gusenleitner\Source\Repos\morse-code-quiz-5ahif-Gusi2406\MorseCodeUnitTest\obj\Debug\MorseCodeUnitTest.pdb
